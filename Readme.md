@@ -162,7 +162,7 @@ If you use this dataset in your work, please cite this repository:
   author       = {Manan Jain, Hemanth Nagulapalli},
   title        = {Hinglish Sarcasm Detection Dataset},
   year         = {2025},
-  howpublished = {\url{https://github.com/<your-repo>}},
+  howpublished = {\url{https://github.com/mananjen/hinglish_sarcasm_dataset}},
   note         = {Code-mixed Hindi-English sarcasm detection dataset with human and AI labels}
 }
 ```
@@ -173,9 +173,5 @@ If you use this dataset in your work, please cite this repository:
 
 * **\[Manan, Hemanth]** – Dataset creation, cleaning, labelling pipeline
 * Collaborators / Faculty: Prof. Natalie Parde (University of Illinois Chicago) 
-
----
-
-```
 
 ---
